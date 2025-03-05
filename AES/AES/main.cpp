@@ -241,6 +241,7 @@ void displayState(ui state[16]) {
 	cout << "\n";
 }
 
+/////////////////////////////
 int main() {
 	string plainText, k;
 	ui state[16], key[16], w0[4], w1[4], w2[4], w3[4];
